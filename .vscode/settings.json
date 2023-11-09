@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "window.zoomLevel": 1,
+    "ansible.python.interpreterPath": "c:\\Program Files\\Python310\\python.exe",
+    "ansible.validation.lint.enabled": false,
+    "yaml.schemaStore.enable": false,
+    "git.ignoreLimitWarning": true
+}
