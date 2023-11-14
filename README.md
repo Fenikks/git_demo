@@ -1,4 +1,4 @@
 demo repo
-new line
+new lines
 added line in master
 changed in br2
